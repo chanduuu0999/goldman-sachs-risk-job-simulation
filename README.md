@@ -45,7 +45,7 @@ Completed the **Goldman Sachs Risk Job Simulation** on **Forage**, gaining pract
 
 The certificate of completion is available in the `Certificate` folder.
 
-**Certificate:** `Goldman-Sachs-Risk-Job-Simulation-Certificate.png`
+**Certificate:** `image.png`
 
 ## Disclaimer
 
